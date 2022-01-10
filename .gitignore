@@ -3,7 +3,8 @@
 # dependencies
 /node_modules
 /npm-debug.log
-/.cache
+.parcel-cache
+.idea
 
 # production
 /build
